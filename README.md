@@ -41,3 +41,8 @@ The key files and folders in this project:
 - **CSS3** (Flexbox, Grid, Media Queries, CSS Variables)
 - **JavaScript** (vanilla JS for interactions)
 - **Google Fonts** for clean typography
+
+## 📸 Screenshot of Homepage
+
+Here’s a preview of the Minimal Blog homepage:
+<img width="1896" height="826" alt="Screenshot 2025-08-03 182815" src="https://github.com/user-attachments/assets/817415f3-18b2-4df3-8ff5-bc62c349c236" />
